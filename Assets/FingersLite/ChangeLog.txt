@@ -1,0 +1,7 @@
+﻿Changelog
+--------------------
+2.3.7	(2018-05-21)
+		- Fix for previous touch position.
+
+2.3.4	(2018-04-17)
+		- Initial release
